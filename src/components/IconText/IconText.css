@@ -1,0 +1,29 @@
+.icon-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.icon-text h1{
+    color: #FFF;
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    margin: 1px 0;
+    
+}
+
+.icon-text p{
+    color: #7780A1;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    margin: 1px 0;
+}
+
+.icon-text img {
+    margin: 1rem 0;
+}
+

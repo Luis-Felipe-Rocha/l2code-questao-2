@@ -1,0 +1,27 @@
+button {
+    padding: 0.75em 1.5em;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Sora';
+    width: fit-content;
+}
+
+.secondary {
+    color: #7780A1;
+    text-decoration: none;
+    background-color: transparent;
+    border: 2px solid #262840;
+    /* box-shadow: inset -4px -4px 4px rgba(0, 0, 0, 0.1), inset 4px 4px 4px rgba(255, 255, 255, 0.1); */
+    border-radius: 12px;
+    padding: 16px 24px;
+}
+
+.primary{
+    background: linear-gradient(104.42deg, #4745D0 0%, #2A27C9 60.23%);
+    padding: 16px 24px;
+    text-decoration: none;
+    box-shadow: inset -4px -4px 4px rgba(0, 0, 0, 0.1), inset 4px 4px 4px rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    border: none;
+    color: #FFF;
+}

@@ -1,0 +1,51 @@
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #262840;
+    border-radius: 20px;
+    padding: 1.5rem;
+    width: 400px;
+}
+
+.card hr {
+    margin: 1rem;
+}
+
+.card-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /* margin: 1rem 2rem; */
+}
+
+.card__title {
+    color: #FFF;
+    justify-content: space-between;
+}
+
+.card__title h2 {
+    width: 50%;
+}
+
+.card__time {
+    color: #FFF;
+    gap: 10px;
+}
+
+.card__social {
+    color: #7780A1;
+    justify-content: space-between;
+}
+
+.card__social img {
+    width: 2rem;
+    height: auto;
+}
+
+.social__likes {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}

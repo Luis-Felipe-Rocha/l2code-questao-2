@@ -1,0 +1,32 @@
+.topbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Sora';
+    font-weight: 600;
+    font-size: 16px;
+    height: 7rem;
+    
+}
+
+.logo {
+    margin-left: 3rem;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #7780A1;
+}
+
+.button_right {
+    display: flex;
+    margin-right: 3rem;
+    gap: 15px;
+
+}

@@ -1,0 +1,72 @@
+.text-image {
+    background-color: #060714;
+    height: 100vh;
+    position: relative;
+    padding: 13em 16em 0px;
+}
+
+.flex-div {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.container {
+    height: 38em;
+}
+
+.left-div {
+    width: 36em;
+}
+
+.left-div h1 {
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    color: #FFF;
+    margin: 0;
+}
+
+.left-div p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    color: #7780A1;
+}
+
+.left-div .overline {
+    font-size: 15px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 1em;
+}
+
+.left-div .description {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.2px;
+    margin-bottom: 5em;
+}
+
+.right-div img {
+    height: 90%;
+}
+
+.button-div {
+    display: flex;
+    gap: 15px;
+}
+
+hr {
+    margin: 8rem 0;
+    color: #262840;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 5rem auto;
+}

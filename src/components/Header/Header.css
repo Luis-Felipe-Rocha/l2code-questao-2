@@ -1,0 +1,38 @@
+.header {
+    /* background-color: #060714; */
+    background: linear-gradient(180deg, rgba(6, 7, 20, 0) 0%, #060714 100%), url('src/assets/BluredLogo.png'), url('src/assets/Circles.png'), url('src/assets/LittleCircles.png');
+    background-size: auto, auto, auto;
+    background-repeat: no-repeat, no-repeat, space;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+}
+
+.square {
+    position: absolute;
+}
+
+.square01 {
+    top: 186px;
+    right: 189px;
+}
+
+.square02 {
+    top: 299px;
+    left: 135px;
+}
+
+.square03 {
+    top: 487px;
+    right: 100px;
+}
+
+.square04 {
+    top: 611px;
+    left: 358px;
+}
+
+.square05 {
+    top: 678px;
+    right: 382px;
+}

@@ -43,7 +43,6 @@ $ npm run dev
 ## Tecnologias
 
 ![Build Status](https://img.shields.io/badge/ReactJS-18.2.0-brightgreen?style=for-the-badge&logo=react)
-![Build Status](https://img.shields.io/badge/TailwindCSS-3.2.4-brightgreen?style=for-the-badge&logo=react)
 ![Build Status](https://img.shields.io/badge/Vite-3.2.3-brightgreen?style=for-the-badge&logo=vite)
 
 ---
